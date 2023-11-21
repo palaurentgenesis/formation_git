@@ -30,7 +30,7 @@ Le Seigneur des Anneaux est une trilogie de romans de haute fantaisie composée 
 
 ## Les Terres de la Terre du Milieu
 
-### $${\color{red}La-Franche-Comté}$$
+La-Franche-Comté
 
 La Comté est la paisible maison des Hobbits, un lieu de verdure, de confort et de tranquillité. Voici un tableau illustrant la vie paisible des Hobbits :
 
