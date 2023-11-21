@@ -30,7 +30,7 @@ Le Seigneur des Anneaux est une trilogie de romans de haute fantaisie composée 
 
 ## Les Terres de la Terre du Milieu
 
-### $${\color{red}La-Franche-Comté}$$
+### $${\color{red}La-Comté}$$
 
 La Comté est la paisible maison des Hobbits, un lieu de verdure, de confort et de tranquillité. Voici un tableau illustrant la vie paisible des Hobbits :
 
@@ -40,7 +40,7 @@ La Comté est la paisible maison des Hobbits, un lieu de verdure, de confort et 
 | Campagne  | Champs de blé, jardins et rivières   |
 | Brasserie | Bières savoureuses et conviviales    |
 
-### $${\color{red}Poudlard}$$
+### $${\color{rer}La-Terre-du-Mordor}$$
 
 La Terre du Mordor est l'antithèse de la Comté, un lieu de ténèbres et de danger. Voici un tableau décrivant le territoire sinistre du Mordor :
 
@@ -50,7 +50,7 @@ La Terre du Mordor est l'antithèse de la Comté, un lieu de ténèbres et de da
 | Volcan     | Mont Doom, où l'Anneau doit être détruit |
 | Forteresse | Barad-dûr, le repaire de Sauron          |
 
-### $${\color{red}La-Forêt-Interdite}$$
+### $${\color{red}La-Lorien}$$
 
 La Lorien est une forêt enchantée et le foyer de la Dame Galadriel. Voici un tableau illustrant la beauté de ce lieu :
 
@@ -60,7 +60,7 @@ La Lorien est une forêt enchantée et le foyer de la Dame Galadriel. Voici un t
 | Fleuves   | Rivières argentées qui traversent la forêt      |
 | Galadhrim | Les Elfes de la Lorien, protecteurs de la forêt |
 
-### $${\color{red}La-tour-Eiffel}$$
+### $${\color{red}Isengard}$$
 
 Isengard est la citadelle de Saroumane, le sorcier corrompu. Voici un tableau décrivant la sinistre forteresse :
 
